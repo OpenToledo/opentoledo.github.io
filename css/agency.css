@@ -29,7 +29,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fec503
+    color: #A12700
 }
 h1,
 h2,
@@ -64,8 +64,8 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #fec503;
-    border-color: #f6bf01
+    background-color: #A12700;
+    border-color: FF9C7C
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -111,8 +111,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     color: #fff;
-    background-color: #fec503;
-    border-color: #f6bf01
+    background-color: #A12700;
+    border-color: FF9C7C
 }
 .btn-xl:active,
 .btn-xl.active,
@@ -153,7 +153,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fec503
+    color: #A12700
 }
 .navbar-default .navbar-collapse {
     border-color: rgba(255, 255, 255, .02)
@@ -189,7 +189,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #fec503
+    background-color: #A12700
 }
 @media (min-width: 768px) {
     .navbar-default {
@@ -547,7 +547,7 @@ aside.clients img {
 }
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    /*background-image: url(../img/map-image.png);*/
     background-position: center;
     background-repeat: no-repeat
 }
